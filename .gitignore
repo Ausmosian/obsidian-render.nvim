@@ -1,0 +1,8 @@
+# Vim/Neovim
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Plugin manager artifacts
+doc/tags
